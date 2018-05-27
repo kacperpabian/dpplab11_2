@@ -6,5 +6,5 @@ setup(name='lab11dpp2',
 	  author_email='226123@student.pwr.edu.pl',
 	  url='https://github.com/kacperpabian/dpplab11_2.git',
 	  download_url='https://github.com/kacperpabian/dpplab11code.git',
-	  packages=['lab6', 'lab6.classes', 'lab6.MainDir'], requires=['PyRECONSTRUCT']
+	  packages=['lab11lib2', 'lab11lib2.classes', 'lab11lib2.MainDir'], requires=['PyRECONSTRUCT']
 	  )

@@ -1,6 +1,6 @@
 import tkinter as tk
 
-from lab6.classes.DBInterface import DBInterface
+from lab11lib2.classes.DBInterface import DBInterface
 
 
 class GUI:
